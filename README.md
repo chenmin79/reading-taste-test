@@ -2,6 +2,8 @@
 
 A comprehensive, multi-round reading preference interview framework designed to infer a reader's taste profile and generate tailored book recommendations.
 
+English | [中文](README_zh.md)
+
 ## Features
 
 - **Multi-dimensional analysis**: Goes beyond simple genre labels to understand cognitive style, difficulty tolerance, reading purpose, and more
